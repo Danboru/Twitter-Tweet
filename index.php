@@ -96,7 +96,8 @@
      
      <div class="container box">  
                 <form name="add_tweet" method="post">  
-                     <h3 align="center">Twikker Page</h3>  
+                     <h1 align="center">Twikker Page</h1>
+                     <h4 align="center">Connecting Jomblo</h4>  
                      <div class="form-group">  
                           <textarea name="tweet" id="tweet" class="form-control" rows="3" placeholder="Apa yang ada di Dompetmu ?"></textarea>  
                      </div>  
