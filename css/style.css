@@ -1,0 +1,67 @@
+*{
+
+padding: 0px;
+margin: 0px;
+
+}
+
+a{
+
+	text-decoration: none;
+}
+
+p.buram{
+
+	color: #EFEFEF;
+
+}
+
+body{
+
+margin : 0;
+padding: 0;
+background-color:  #f1f1f1;
+
+}
+
+.box {
+
+width: 100%;
+border:  1px solid #ccc;
+background-color: #fff;
+border-radius: 5px;
+margin: 20px 0px 20px 0px;
+
+}
+
+#load_tweets{
+
+padding : 16px;
+background-color:  #f1f1f1;
+margin-bottom: 30px;
+
+}
+
+#load_tweet p {
+
+padding : 12px;
+border-bottom:  1px dotted #ccc;
+
+}
+
+.statusnya{
+
+background-color: #fff;
+padding : 10px 20px 10px 20px;
+border: 1px solid #5BE5EA;
+margin: 5px 0px 5px 0px;
+border-radius: 2px;
+
+}
+
+a.tebal{
+
+	text-decoration-style: bold;
+	font-size: 20px;
+
+}
