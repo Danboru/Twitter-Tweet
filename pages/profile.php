@@ -24,7 +24,7 @@
     <header>
     
         <!-- here’s the avatar -->
-        <a href="../index.php">
+        <a href="../index.php" title="Kembali ke Twikker Utama">
             <img src="../images/dnb.png" />
         </a>
         
@@ -32,14 +32,14 @@
         <h1>672014113</h1>
         
         <!-- and role or location -->
-        <h2>Web Developer</h2>
+        <h2>Android Developer</h2>
     
     </header>
 
     <!-- bit of a bio; who are you? -->
     <div class="profile-bio">
     
-        <p>Semua orang genius. Tapi jika anda menilai kemampuan ikan untuk memanjat pohon, seluruh manusia percaya bahwa itu adalah hal yang bodoh. - Albert Einstein...</p>
+        <p>Ada Dua Cara Mengatasi Kesulitan, Anda Mengubah Kesulitan-kesulitan Itu Atau Anda Mengubah Diri Sendiri Untuk Mengatasinya....</p>
     
     </div>
 

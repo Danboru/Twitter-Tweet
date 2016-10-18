@@ -3,7 +3,7 @@
 $connection = mysqli_connect("localhost", "root", "", "pbp_a_tts_672014113");
 //include ("database/connection.php");
 
- $sql = "SELECT * FROM tbl_tweet ORDER BY tweet_id DESC";
+ $sql = "SELECT * FROM tbl_tweet ORDER BY tweet_id DESC";//mengambil data dari database dan mengurutkannya
 
  $res = mysqli_query($connection, $sql);  
 
