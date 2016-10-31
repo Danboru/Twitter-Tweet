@@ -16,10 +16,11 @@ $connection = mysqli_connect("localhost", "root", "", "pbp_a_tts_672014113");
            echo '<img src="images/dnb.png" class="pf">';
       	   echo '<a class="tebal" href="https://www.facebook.com/profile.php?id=100001794518762"> Da N Bo </a>';
       	   echo '<br>';
-      	   echo '<p>Waktunya</p>';
+      	   echo '<p>$time yang Lalu</p>';
       	   echo '<br>';
            echo '<p>'.$row["tweet"].'</p>';
-           echo '</div>';  
+           echo '</div>';
+
       }  
  }  
  ?>  

@@ -47,7 +47,7 @@
    </script>
    -->
 
-   <nav class="navbar navbar-default" style="background-color: #BCDEE7;>
+   <nav class="navbar navbar-default" style="background-color: #fff;>
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -57,7 +57,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#" style="color: #000">Twikker</a>
+      <a class="navbar-brand" href="#" style="color: #BCDEE7">Twikker</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -95,9 +95,12 @@
    <div class="col col-xs-12 col-sm-12 col-md-12 col-lg-12">
      
      <div class="container box">  
-                <form name="add_tweet" method="post">  
+                <form name="add_tweet" method="post">
+                <center>
+                     <img src="images/twikker.png" class="logonya"></center>  
                      <h1 align="center">Twikker Page</h1>
-                     <h4 align="center">Connecting Jomblo</h4>  
+                     <h4 align="center">Connecting Jomblo</h4>
+                     <br>  
                      <div class="form-group">  
                           <textarea name="tweet" id="tweet" class="form-control" rows="3" placeholder="Apa yang ada di Dompetmu ?"></textarea>  
                      </div>  

@@ -21,7 +21,8 @@
 
            }
 
-      });  
+      });
+        
       setInterval(function(){  
            $('#load_tweets').load("fetch.php").fadeIn("slow");  
       }, 1000);  

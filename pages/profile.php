@@ -9,7 +9,7 @@
     <link  rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto" />
     <link rel="stylesheet" href="../css/normalize.css">
     <link rel="stylesheet" href="../css/profile.css">
-    <link rel="icon" type="../image/png" href="images/twikker.png">
+    <link rel="icon" type="image/png" href="../images/twikker.png">
 
 
     
